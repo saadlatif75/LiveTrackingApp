@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "216107081601",
+    "firebase_url": "https://newtreacker-default-rtdb.firebaseio.com",
+    "project_id": "newtreacker",
+    "storage_bucket": "newtreacker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216107081601:android:b3502c1a15a487306a9280",
+        "android_client_info": {
+          "package_name": "com.TrackingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216107081601-9olej8bf5t11et04t7sg5uj3h65ima12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP6KNPpsfITsMqEe211Asd7RlNMnFRrVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216107081601-9olej8bf5t11et04t7sg5uj3h65ima12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216107081601:android:13d95557c0a064106a9280",
+        "android_client_info": {
+          "package_name": "com.transistorsoft.backgroundgeolocation.react"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216107081601-9olej8bf5t11et04t7sg5uj3h65ima12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP6KNPpsfITsMqEe211Asd7RlNMnFRrVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216107081601-9olej8bf5t11et04t7sg5uj3h65ima12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
